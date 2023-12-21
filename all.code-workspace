@@ -1,0 +1,16 @@
+{
+  "folders": [
+      {
+          "path": "./"
+      }
+  ],
+  "extensions": {
+      "recommendations": [
+          "donjayamanne.githistory",
+          "github.copilot",
+          "eamodio.gitlens",
+          "oderwat.indent-rainbow",
+          "github.vscode-pull-request-github"
+      ]
+  }
+}
